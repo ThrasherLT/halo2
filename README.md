@@ -1,5 +1,10 @@
 # halo2
 
+This is a temporary fork until Halo2 implements proper VerifyingKey serialziation.
+Based on the PR by nalinbhardwaj, which isn't going to be merged, but so far is the only way to serialize the VerifyingKey:
+https://github.com/zcash/halo2/pull/661
+This fork is being used in my other personal project for now.
+
 ## Usage
 
 This repository contains the [halo2_proofs](halo2_proofs/README.md) and
